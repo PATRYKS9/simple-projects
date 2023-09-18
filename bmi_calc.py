@@ -1,4 +1,4 @@
-# This is simple program that i read for my python training. It is used to calculate bmi.
+# This is simple program that i read for my python training. It is used to calculate bmi..
 
 def getData():
     weight = float(input("Please, enter your weight in kg: "))
@@ -23,6 +23,7 @@ def main():
     bmi = w / (h * h)
     print(f'Your bmi is {bmi}')
     summary(bmi)
+
 
 
 
